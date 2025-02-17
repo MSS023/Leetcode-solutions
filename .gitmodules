@@ -1,0 +1,12 @@
+[submodule "Leetcode-solutions-python"]
+	path = Leetcode-solutions-python
+	url = https://github.com/MSS023/Leetcode-solutions-python.git
+[submodule "Leetcode-Solutions-Typescript"]
+	path = Leetcode-Solutions-Typescript
+	url = https://github.com/MSS023/Leetcode-Solutions-Typescript.git
+[submodule "Leetcode-Solution-Java"]
+	path = Leetcode-Solution-Java
+	url = https://github.com/MSS023/Leetcode-Solution-Java.git
+[submodule "leetcode-contests"]
+	path = leetcode-contests
+	url = https://github.com/MSS023/leetcode-contests.git
